@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		377000A02EA4F4920025AFF6 /* MyPlants.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPlants.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		37933A922EB0B8FB00FB124F /* MyPlants.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPlants.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,8 @@
 			isa = PBXGroup;
 			children = (
 				377000A22EA4F4920025AFF6 /* MyPlants */,
-				377000A12EA4F4920025AFF6 /* Products */,
+				37933A922EB0B8FB00FB124F /* MyPlants.app */,
 			);
-			sourceTree = "<group>";
-		};
-		377000A12EA4F4920025AFF6 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				377000A02EA4F4920025AFF6 /* MyPlants.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -67,7 +59,7 @@
 			packageProductDependencies = (
 			);
 			productName = MyPlants;
-			productReference = 377000A02EA4F4920025AFF6 /* MyPlants.app */;
+			productReference = 37933A922EB0B8FB00FB124F /* MyPlants.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -95,7 +87,7 @@
 			mainGroup = 377000972EA4F4920025AFF6;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 377000A12EA4F4920025AFF6 /* Products */;
+			productRefGroup = 377000972EA4F4920025AFF6;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
